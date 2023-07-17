@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects <br>🌱 I’m currently learning FlutterFlow and JavaScript<br>
+🔭 I’m currently working on my own projects <br>🌱 I’m currently learning FlutterFlow, React and Next<br>
 
 
 ## 🌐 Socials:
